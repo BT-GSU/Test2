@@ -1,6 +1,0 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello.");
-        System.out.print("This is defenitly working right?");
-    }
-}
